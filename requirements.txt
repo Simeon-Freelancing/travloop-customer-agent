@@ -1,0 +1,9 @@
+fastmcp
+langchain
+langgraph
+pydantic
+pydantic-ai
+fastapi
+streamlit
+langchain_openai
+langchain_gemini
