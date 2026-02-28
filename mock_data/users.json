@@ -1,0 +1,49 @@
+[
+      {
+        "id": 42,
+        "user_id": 15,
+        "user_email": "john@example.com",
+        "trip_id": 5,
+        "custom_trip_id": null,
+        "status": "active",
+        "payment_status": "unpaid",
+        "has_paid": false,
+        "membership_since": "2024-01-01T10:30:00Z",
+        "tripDetails": {
+          "id": 5,
+          "created_at": "2023-12-15T08:00:00Z",
+          "title": "Casa De Papa",
+          "price": "N870,000",
+          "image_url": "/casa-de-papa-luxury-villa-tropical.jpg",
+          "destination_name": "Lagos",
+          "start_date": "2024-02-15",
+          "is_flexible": true
+        },
+        "tripType": "regular"
+      },
+      {
+        "id": 43,
+        "user_id": 15,
+        "user_email": "john@example.com",
+        "trip_id": null,
+        "custom_trip_id": 8,
+        "status": "active",
+        "payment_status": "unpaid",
+        "has_paid": false,
+        "membership_since": "2024-01-01T11:45:00Z",
+        "tripDetails": {
+          "id": 8,
+          "created_at": "2024-01-01T09:00:00Z",
+          "creator_user_id": 20,
+          "title": "West African Adventure",
+          "destination_name": "Ghana",
+          "start_date": "2024-03-01",
+          "end_date": "2024-03-10",
+          "is_flexible": true,
+          "status": "open",
+          "is_public": true,
+          "current_member_count": 3
+        },
+        "tripType": "custom"
+      }
+    ]

@@ -1,0 +1,47 @@
+{
+  "trips": [
+    {
+      "id": 2,
+      "created_at": "2023-12-12T10:30:00Z",
+      "title": "Zanzibar Escape",
+      "price": "N999,999",
+      "image_url": "/zanzibar-turtle-beach-tropical.jpg",
+      "destination_name": "Zanzibar",
+      "start_date": "2024-03-15",
+      "group_info": "14 people joined",
+      "is_flexible": true,
+      "max_guests": 20
+    },
+    {
+      "id": 3,
+      "created_at": "2023-12-20T14:00:00Z",
+      "title": "Bali Adventure Retreat",
+      "price": "N1,250,000",
+      "image_url": "/bali-temple-sunset.jpg",
+      "destination_name": "Bali",
+      "start_date": "2024-04-10",
+      "group_info": "8 people joined",
+      "is_flexible": false,
+      "max_guests": 15
+    },
+    {
+      "id": 4,
+      "created_at": "2024-01-05T09:15:00Z",
+      "title": "Dubai Luxury Getaway",
+      "price": "N1,800,000",
+      "image_url": "/dubai-skyline-night.jpg",
+      "destination_name": "Dubai",
+      "start_date": "2024-05-01",
+      "group_info": "5 people joined",
+      "is_flexible": true,
+      "max_guests": 25
+    }
+  ],
+  "count": 3,
+  "filters": {
+    "location": null,
+    "startDate": null,
+    "endDate": null,
+    "guests": null
+  }
+}
